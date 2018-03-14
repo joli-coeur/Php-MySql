@@ -1,0 +1,187 @@
+[21-Jul-2017 19:58:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home/ubuntu/workspace/$weekdagen.php on line 9
+[30-Jul-2017 16:31:29 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/lesbrief5_opdracht3.php on line 11
+[30-Jul-2017 16:31:29 UTC] PHP Stack trace:
+[30-Jul-2017 16:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5_opdracht3.php:0
+[30-Jul-2017 16:31:58 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/lesbrief5_opdracht3.php on line 11
+[30-Jul-2017 16:31:58 UTC] PHP Stack trace:
+[30-Jul-2017 16:31:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5_opdracht3.php:0
+[30-Jul-2017 16:32:58 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/lesbrief5_opdracht3.php on line 11
+[30-Jul-2017 16:32:58 UTC] PHP Stack trace:
+[30-Jul-2017 16:32:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5_opdracht3.php:0
+[30-Jul-2017 16:34:27 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/lesbrief5_opdracht3.php on line 11
+[30-Jul-2017 16:34:27 UTC] PHP Stack trace:
+[30-Jul-2017 16:34:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5_opdracht3.php:0
+[30-Jul-2017 16:35:06 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/lesbrief5_opdracht3.php on line 11
+[30-Jul-2017 16:35:06 UTC] PHP Stack trace:
+[30-Jul-2017 16:35:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5_opdracht3.php:0
+[30-Jul-2017 16:37:05 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/lesbrief5_opdracht3.php on line 12
+[30-Jul-2017 16:37:05 UTC] PHP Stack trace:
+[30-Jul-2017 16:37:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5_opdracht3.php:0
+[31-Jul-2017 13:42:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[31-Jul-2017 13:42:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[31-Jul-2017 13:42:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 25
+[31-Jul-2017 14:01:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 25
+[31-Jul-2017 14:01:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 25
+[31-Jul-2017 14:01:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 25
+[31-Jul-2017 14:08:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[31-Jul-2017 14:11:04 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[31-Jul-2017 14:11:23 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[31-Jul-2017 14:11:50 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[31-Jul-2017 14:12:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[31-Jul-2017 14:12:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lesbrief4-opdr2verwerking.php on line 24
+[18-Dec-2017 18:59:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'JoliCoeur'@'localhost' (using password: NO) in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 15
+[18-Dec-2017 18:59:56 UTC] PHP Stack trace:
+[18-Dec-2017 18:59:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 18:59:56 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/lesbrief5opdracht2.php:15
+[18-Dec-2017 18:59:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 18
+[18-Dec-2017 18:59:56 UTC] PHP Stack trace:
+[18-Dec-2017 18:59:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 18:59:56 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/lesbrief5opdracht2.php:18
+[18-Dec-2017 18:59:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 20
+[18-Dec-2017 18:59:56 UTC] PHP Stack trace:
+[18-Dec-2017 18:59:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 18:59:56 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/lesbrief5opdracht2.php:20
+[18-Dec-2017 18:59:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 27
+[18-Dec-2017 18:59:56 UTC] PHP Stack trace:
+[18-Dec-2017 18:59:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 18:59:56 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/lesbrief5opdracht2.php:27
+[18-Dec-2017 19:00:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'bibliotheek' in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 15
+[18-Dec-2017 19:00:37 UTC] PHP Stack trace:
+[18-Dec-2017 19:00:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:00:37 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/lesbrief5opdracht2.php:15
+[18-Dec-2017 19:00:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 18
+[18-Dec-2017 19:00:37 UTC] PHP Stack trace:
+[18-Dec-2017 19:00:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:00:37 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/lesbrief5opdracht2.php:18
+[18-Dec-2017 19:00:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 20
+[18-Dec-2017 19:00:37 UTC] PHP Stack trace:
+[18-Dec-2017 19:00:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:00:37 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/lesbrief5opdracht2.php:20
+[18-Dec-2017 19:00:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 27
+[18-Dec-2017 19:00:37 UTC] PHP Stack trace:
+[18-Dec-2017 19:00:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:00:37 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/lesbrief5opdracht2.php:27
+[18-Dec-2017 19:01:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jolicoeur'@'localhost' (using password: YES) in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 15
+[18-Dec-2017 19:01:28 UTC] PHP Stack trace:
+[18-Dec-2017 19:01:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:01:28 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/lesbrief5opdracht2.php:15
+[18-Dec-2017 19:01:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 18
+[18-Dec-2017 19:01:28 UTC] PHP Stack trace:
+[18-Dec-2017 19:01:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:01:28 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/lesbrief5opdracht2.php:18
+[18-Dec-2017 19:01:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 20
+[18-Dec-2017 19:01:28 UTC] PHP Stack trace:
+[18-Dec-2017 19:01:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:01:28 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/lesbrief5opdracht2.php:20
+[18-Dec-2017 19:01:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 27
+[18-Dec-2017 19:01:28 UTC] PHP Stack trace:
+[18-Dec-2017 19:01:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:01:28 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/lesbrief5opdracht2.php:27
+[18-Dec-2017 19:11:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 80
+[18-Dec-2017 19:12:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'JoliCoeur'@'localhost' (using password: NO) in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 61
+[18-Dec-2017 19:12:17 UTC] PHP Stack trace:
+[18-Dec-2017 19:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:12:17 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/lesbrief5opdracht2.php:61
+[18-Dec-2017 19:12:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 74
+[18-Dec-2017 19:12:17 UTC] PHP Stack trace:
+[18-Dec-2017 19:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:12:17 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/lesbrief5opdracht2.php:74
+[18-Dec-2017 19:12:17 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/lesbrief5opdracht2.php on line 77
+[18-Dec-2017 19:12:17 UTC] PHP Stack trace:
+[18-Dec-2017 19:12:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/lesbrief5opdracht2.php:0
+[18-Dec-2017 19:12:17 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/lesbrief5opdracht2.php:77
+[18-Dec-2017 19:15:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hakkas'@'localhost' (using password: NO) in /home/ubuntu/workspace/invoerboek_verw.php on line 9
+[18-Dec-2017 19:15:28 UTC] PHP Stack trace:
+[18-Dec-2017 19:15:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:15:28 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/invoerboek_verw.php:9
+[18-Dec-2017 19:15:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 22
+[18-Dec-2017 19:15:28 UTC] PHP Stack trace:
+[18-Dec-2017 19:15:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:15:28 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/invoerboek_verw.php:22
+[18-Dec-2017 19:15:28 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 25
+[18-Dec-2017 19:15:28 UTC] PHP Stack trace:
+[18-Dec-2017 19:15:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:15:28 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/invoerboek_verw.php:25
+[18-Dec-2017 19:15:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hakkas'@'localhost' (using password: NO) in /home/ubuntu/workspace/invoerboek_verw.php on line 9
+[18-Dec-2017 19:15:32 UTC] PHP Stack trace:
+[18-Dec-2017 19:15:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:15:32 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/invoerboek_verw.php:9
+[18-Dec-2017 19:15:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 22
+[18-Dec-2017 19:15:32 UTC] PHP Stack trace:
+[18-Dec-2017 19:15:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:15:32 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/invoerboek_verw.php:22
+[18-Dec-2017 19:15:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 25
+[18-Dec-2017 19:15:32 UTC] PHP Stack trace:
+[18-Dec-2017 19:15:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:15:32 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/invoerboek_verw.php:25
+[18-Dec-2017 19:16:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'JoliCoeur'@'localhost' (using password: NO) in /home/ubuntu/workspace/invoerboek_verw.php on line 9
+[18-Dec-2017 19:16:11 UTC] PHP Stack trace:
+[18-Dec-2017 19:16:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:16:11 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/invoerboek_verw.php:9
+[18-Dec-2017 19:16:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 22
+[18-Dec-2017 19:16:11 UTC] PHP Stack trace:
+[18-Dec-2017 19:16:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:16:11 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/invoerboek_verw.php:22
+[18-Dec-2017 19:16:11 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 25
+[18-Dec-2017 19:16:11 UTC] PHP Stack trace:
+[18-Dec-2017 19:16:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:16:11 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/invoerboek_verw.php:25
+[18-Dec-2017 19:16:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'JoliCoeur'@'localhost' (using password: YES) in /home/ubuntu/workspace/invoerboek_verw.php on line 9
+[18-Dec-2017 19:16:46 UTC] PHP Stack trace:
+[18-Dec-2017 19:16:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:16:46 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/invoerboek_verw.php:9
+[18-Dec-2017 19:16:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 22
+[18-Dec-2017 19:16:46 UTC] PHP Stack trace:
+[18-Dec-2017 19:16:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:16:46 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/invoerboek_verw.php:22
+[18-Dec-2017 19:16:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 25
+[18-Dec-2017 19:16:46 UTC] PHP Stack trace:
+[18-Dec-2017 19:16:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:16:46 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/invoerboek_verw.php:25
+[18-Dec-2017 19:18:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'JoliCoeur'@'localhost' (using password: YES) in /home/ubuntu/workspace/invoerboek_verw.php on line 15
+[18-Dec-2017 19:18:11 UTC] PHP Stack trace:
+[18-Dec-2017 19:18:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:18:11 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/invoerboek_verw.php:15
+[18-Dec-2017 19:18:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 28
+[18-Dec-2017 19:18:11 UTC] PHP Stack trace:
+[18-Dec-2017 19:18:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:18:11 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/invoerboek_verw.php:28
+[18-Dec-2017 19:18:11 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 31
+[18-Dec-2017 19:18:11 UTC] PHP Stack trace:
+[18-Dec-2017 19:18:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[18-Dec-2017 19:18:11 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/invoerboek_verw.php:31
+[21-Dec-2017 08:55:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/invoerboek_verw.php on line 45
+[21-Dec-2017 08:58:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 30
+[21-Dec-2017 08:58:50 UTC] PHP Stack trace:
+[21-Dec-2017 08:58:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[21-Dec-2017 08:58:50 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/invoerboek_verw.php:30
+[21-Dec-2017 09:00:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/invoerboek_verw.php on line 30
+[21-Dec-2017 09:00:42 UTC] PHP Stack trace:
+[21-Dec-2017 09:00:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/invoerboek_verw.php:0
+[21-Dec-2017 09:00:42 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/invoerboek_verw.php:30
+[21-Dec-2017 09:12:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lesbrief6.php on line 37
+[21-Dec-2017 09:13:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lesbrief6.php on line 32
+[21-Dec-2017 09:13:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lesbrief6.php on line 32
+[21-Dec-2017 09:16:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 30
+[21-Dec-2017 09:16:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 30
+[21-Dec-2017 09:18:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 32
+[21-Dec-2017 09:19:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 32
+[21-Dec-2017 09:19:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 32
+[21-Dec-2017 09:20:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 32
+[21-Dec-2017 09:24:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 31
+[21-Dec-2017 09:25:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 27
+[21-Dec-2017 09:32:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 27
+[21-Dec-2017 09:34:38 UTC] PHP Parse error:  syntax error, unexpected 'Tabel' (T_STRING) in /home/ubuntu/workspace/lesbrief6.php on line 29
+[12-Mar-2018 08:51:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'auteurs' in /home/ubuntu/workspace/auteurinvoer_verw.php on line 15
+[12-Mar-2018 08:51:22 UTC] PHP Stack trace:
+[12-Mar-2018 08:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/auteurinvoer_verw.php:0
+[12-Mar-2018 08:51:22 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/auteurinvoer_verw.php:15
+[12-Mar-2018 08:51:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/auteurinvoer_verw.php on line 28
+[12-Mar-2018 08:51:22 UTC] PHP Stack trace:
+[12-Mar-2018 08:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/auteurinvoer_verw.php:0
+[12-Mar-2018 08:51:22 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/auteurinvoer_verw.php:28
+[12-Mar-2018 08:51:22 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/ubuntu/workspace/auteurinvoer_verw.php on line 32
+[12-Mar-2018 08:51:22 UTC] PHP Stack trace:
+[12-Mar-2018 08:51:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/auteurinvoer_verw.php:0
+[12-Mar-2018 08:51:22 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/auteurinvoer_verw.php:32
+[12-Mar-2018 09:28:23 UTC] PHP Parse error:  syntax error, unexpected 'De' (T_STRING) in /home/ubuntu/workspace/auteurinvoer_verw.php on line 35
